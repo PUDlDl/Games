@@ -4,9 +4,12 @@
 
 <h3>This is a game in which you have to click on various cards and try to match the pairs to win the game.
 In order to maintain a highscore you have to reduce the number of flipsin the given time</h3>
-<a href="https://mix-or-match-game.netlify.app/"><b>Demo Here</b></a>
+<a href="https://mix-or-match-game.netlify.app/"><b>Play Demo Click Here</b></a>
 <br>
-<h3>Languages Used</h3>
+
+|Languages Used|
+|:-----------: |
+
 <ul>
   <li>HTML</li>
   <li>CSS</li>

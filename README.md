@@ -7,13 +7,9 @@ In order to maintain a highscore you have to reduce the number of flipsin the gi
 
 |Languages Used|
 |:-----------: |
-
-<ul>
-* HTML
-* CSS
-* JAVACSRIPT
-  </ul>
-  <br>
+HTML
+CSS
+JAVACSRIPT
 
  <a href="https://mix-or-match-game.netlify.app/"><b>Play Demo Click Here</b></a>
 <br>

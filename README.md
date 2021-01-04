@@ -6,7 +6,7 @@
 In order to maintain a highscore you have to reduce the number of flipsin the given time</h3>
 <a href="https://mix-or-match-game.netlify.app/"><b>Demo Here</b></a>
 <br>
-<h3>Languages Used</h3>
+<h3>Leangues Used</h3>
 <ul>
   <li>HTML</li>
   <li>CSS</li>

@@ -1,4 +1,4 @@
-# MIX-OR-MATCH-GAME 👻
+## MIX-OR-MATCH-GAME 👻
 
 ```INTRODUCTION```
 

@@ -1,4 +1,4 @@
-## MIX-OR-MATCH-GAME 👻
+## MIX-OR-MATCH-GAME 🚀
 
 ```INTRODUCTION```
 
@@ -11,7 +11,7 @@ HTML
 CSS
 JAVACSRIPT
 
- <a href="https://mix-or-match-game.netlify.app/"><b>Play Demo Click Here</b></a>
+ <a href="https://mix-or-match-game.netlify.app/"><b>KLIK AJA INI KALO MAU NYOBA</b></a>
 <br>
  
 <h3>A Sneak Peek</h3>
